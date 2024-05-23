@@ -4,9 +4,13 @@ In this project, we will demonstrate how to train word embeddings using Python. 
 
 ## Project Overview
 step 1: Load Data
+
 step 2: Create Bigrams
+
 step 3: Perform one-hot Encoding 
+
 step 4: Create model and train 
+
 step 5: Visulaize results
 
 Word embeddings are dense vector representations of words that capture their meanings, semantic relationships, and syntactic similarities. Training word embeddings involves learning these vector representations from a corpus of text. This project includes:
