@@ -1,6 +1,6 @@
 # WordEmbeddings_Training
 
-In this project, we will demonstrate how to train word embeddings using Python. The primary goal is to write a Python code that trains word embeddings. To achieve this, we will solve a synthetic problem. Although the problem itself is not of primary concern, the main focus is on the weights obtained after training the model. These weights will be extracted and used as word embeddings.
+This project demonstrates how to manually derive word embeddings from raw textual data, enabling a deeper semantic understanding of words and their relationships. The project avoids using popular libraries like Gensim or Word2Vec, instead implementing the process of creating word embeddings manually.
 
 ## Project Overview
 step 1: Load Data
